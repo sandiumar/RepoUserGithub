@@ -1,7 +1,8 @@
-package com.sandy.repo_user_github
+package com.sandy.repo_user_github.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.sandy.repo_user_github.R
 
 class MainActivity : AppCompatActivity() {
 
